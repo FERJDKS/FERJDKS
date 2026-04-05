@@ -8,83 +8,28 @@
 
 ## Sobre mí
 
-##### Estudiante de sistemas enfocado en desarrollo de software.
-##### Desarrollando proyectos con Java,python,c++ backend, y proyectos con arduino.
-##### Reforzando conocimientos en arquitectura, lógica y bases de datos.
-##### Estoy enfocado en crear soluciones reales y mejorar constantemente.
+<p>
+Estudiante de sistemas enfocado en desarrollo de software<br>
+Desarrollo de proyectos con Java, Python, C++ y backend, además de proyectos con Arduino<br>
+Reforzando conocimientos en arquitectura, lógica y bases de datos<br>
+Enfocado en crear soluciones reales y mejorar constantemente
+</p>
 
 
 ---
+## Lenguajes y herramientas
 
-## Tecnologías y herramientas
-
-### Lenguajes
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,py,cpp,php" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,py,cpp,php,html,css,react,angular,nodejs,mysql,aws,gcp,kali,linux,git,idea,vscode,github" />
 </p>
 
-### Desarrollo web
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,angular" />
-</p>
-
-### Backend y bases de datos
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,mysql" />
-</p>
-
-### Cloud
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp" />
-</p>
-
-### Seguridad y sistemas
-
-<p>
-  <img src="https://skillicons.dev/icons?i=kali,linux" />
-</p>
-
-### Herramientas
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,idea,vscode,github" />
-</p>
-
----
-
-## Proyectos destacados
-
-### Sistema de corredores (Java)
-
-* Simulación con lógica y aleatoriedad
-* Manejo de estructuras y control de flujo
-
-### Aplicación web básica
-
-* HTML, CSS, JavaScript
-* Interfaz funcional y responsive
-
-### CRUD con base de datos
-
-* Java + MySQL
-* Conexión, consultas y persistencia de datos
 
 ---
 
 ## Estadísticas
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USER&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USER&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=TU_USER&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
