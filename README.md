@@ -20,7 +20,7 @@ Enfocado en crear soluciones reales y mejorar constantemente
 ## Lenguajes y herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,py,cpp,php,html,css,react,angular,nodejs,mysql,aws,gcp,kali,linux,git,idea,vscode,github" />
+  <img src="https://skillicons.dev/icons?i=java,js,py,cpp,php,html,css,react,angular,nodejs,mysql,aws,gcp,kali,linux,arduino,git,idea,vscode,github" />
 </p>
 
 
