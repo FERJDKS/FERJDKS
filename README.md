@@ -8,7 +8,7 @@
 Estudiante de sistemas enfocado en desarrollo de software<br>
 Desarrollo de proyectos con Java, Python, C++ y backend, además de proyectos con Arduino<br>
 Reforzando conocimientos en arquitectura, lógica y bases de datos<br>
-Enfocado en crear soluciones reales y mejorar constantemente
+Enfocado en crear soluciones y mejorar constantemente
 </p>
 
 
